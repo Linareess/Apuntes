@@ -30,7 +30,15 @@
 
 
 2. Personalizar tu repositorio
-    Un repositorio permite cierta personalización, por ejemplo a la hora de crearlo, podemos decidir si queremos que teng ao no un archivo .md por defecto o no, tambien permite gestionar el acceso, ("publico""privado"), Permite agregar una descripcion para distinguir el repositorio.
+    Un repositorio permite cierta personalización, por ejemplo a la hora de crearlo, podemos decidir si queremos que tenga o no un archivo 
+    .md por defecto o no, tambien permite gestionar el acceso, ("publico""privado"), Permite agregar una descripcion para distinguir el repositorio.
+
+3. Pages
+    Podemos publicar nuestra pagina web de manera publica gracias al hosting gratuito que ofrece github.
+![fotoc](./img/fotoc.png)
+en la foto vemos que en la configuracion individual de cada repositorio permite su propio github pages.
+![fotod](./img/fotod.png)
+en esta foto vemos que podemos personalizar el dominio, y escoger la rama de visualizacion de usuario de la pagina.
 
 ## Markdown
 
@@ -55,21 +63,6 @@ Estos son los apuntes de *0373* del ciclo formativo de _ASIX_ o **DAW** del curs
 * Segundo punto de lista desordenada
 + Tercer punto de lista desordenada
 
-<lipsum_markdown(
-    n = 5L,
-  no_headers = FALSE,
-  no_code = FALSE,
-  no_inline_markup = FALSE,
-  no_quotes = FALSE,
-  no_lists = FALSE,
-  no_external_links = FALSE,
-  no_wrapping = FALSE,
-  underline_headers = FALSE,
-  reference_links = FALSE,
-  underscore_em = FALSE,
-  underscore_strong = FALSE,
-  fenced_code_blocks = FALSE 
-)
 La primer clase de **_markdown_** y HTML pueden anidarse en VS code
 
 ### insertar imagenes
