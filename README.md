@@ -2,7 +2,7 @@
 
 ## Indice
 <ol>
-    <li a href="#github">Github</li>
+    <li>[Github](#github)</li>
     <li>Markdown</li>
     <li>HTML</li>
 </ol>
