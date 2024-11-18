@@ -56,7 +56,19 @@ Estos son los apuntes de *0373* del ciclo formativo de _ASIX_ o **DAW** del curs
 + Tercer punto de lista desordenada
 
 <lipsum_markdown(
-    
+    n = 5L,
+  no_headers = FALSE,
+  no_code = FALSE,
+  no_inline_markup = FALSE,
+  no_quotes = FALSE,
+  no_lists = FALSE,
+  no_external_links = FALSE,
+  no_wrapping = FALSE,
+  underline_headers = FALSE,
+  reference_links = FALSE,
+  underscore_em = FALSE,
+  underscore_strong = FALSE,
+  fenced_code_blocks = FALSE 
 )
 La primer clase de **_markdown_** y HTML pueden anidarse en VS code
 
