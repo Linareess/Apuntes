@@ -2,13 +2,13 @@
 
 ## Indice
 <ol>
-    <li>[Github](#github)</li>
+    <li>Github</li>
     <li>Markdown</li>
     <li>HTML</li>
 </ol>
 
 ## Github 
-
+<br>
 ## Comandos para github
 
     - git init --> Inicializa/reinicia el repositorio
@@ -28,7 +28,6 @@
 1. En la página principal de GitHub, nos dirigimos a *New*para crear un repositorio 
 ![creacion](./img/fotoa.png)
 
-
 2. Personalizar tu repositorio
     Un repositorio permite cierta personalización, por ejemplo a la hora de crearlo, podemos decidir si queremos que tenga o no un archivo 
     .md por defecto o no, tambien permite gestionar el acceso, ("publico""privado"), Permite agregar una descripcion para distinguir el repositorio.
@@ -47,6 +46,7 @@ en esta foto vemos que podemos personalizar el dominio, y escoger la rama de vis
 ### Tercer nivel 
 #### Cuarto nivel
 ##### Quinto nivel
+###### sexto nivel de encabezado
 
 Estos son los apuntes de *0373* del ciclo formativo de _ASIX_ o **DAW** del curso __2425__
 
@@ -63,6 +63,20 @@ Estos son los apuntes de *0373* del ciclo formativo de _ASIX_ o **DAW** del curs
 * Segundo punto de lista desordenada
 + Tercer punto de lista desordenada
 
+## mostrar codigo
+    ```
+    <!DOCTYPE HTML >
+    <HTML lang="en">
+        <HEAD>
+            <TITLE></TITLE>
+        </HEAD>
+        <BODY>
+        </BODY>
+    </HTML>
+    
+    ```
+<br>
+
 La primer clase de **_markdown_** y HTML pueden anidarse en VS code
 
 ### insertar imagenes
@@ -72,7 +86,27 @@ La primer clase de **_markdown_** y HTML pueden anidarse en VS code
 
 [Página web de Amazon](https://amazon.com)"Amazon")
 
+Tabla
+
+|Nombre|Enlace a documentacion|
+|--------|--------------------|
+|HTML| [enlace](https://html.spec.whatwg.org/) |
+|XML| [enlace](https://www.w3.org/XML/) |
+|SMGL| [enlace](https://www.w3.org/TR/sgml-dtd/) |
+|XHTML| [enlace](https://www.w3.org/TR/xhtml1/) |
+|Markdown| [enlace](https://daringfireball.net/projects/markdown/) |
+
+
+|Titulo a | Titulo b | Titulo c | Titulo d|
+|--------|------------|------|----|
+|asix|2024|25|26|
+|smx|24|25|26|
+|daw|24|25|26|
+
 ## HTML
+
+## 4. ¿Que es HTML? ¿Como se esctructura?
+HTML es un lenguaje de marcas usado para estructurar y crear paginas web de forma legible para el usuario.
 
 1. Elementos principales
 
@@ -112,9 +146,4 @@ La primer clase de **_markdown_** y HTML pueden anidarse en VS code
 * width: Define el ancho de un elemento.
 * height: Define la altura de un elemento.
 
-|Titulo a | Titulo b | Titulo c | Titulo d|
-|--------|------------|------|----|
-|asix|2024|25|26|
-|smx|24|25|26|
-|daw|24|25|26|
 
