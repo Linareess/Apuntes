@@ -7,7 +7,7 @@
     <li>HTML</li>
 </ol>
 
-## Github 
+# Github 
 <br>
 ## Comandos para github
 
@@ -23,7 +23,7 @@
     - git add README.md --> Pone la trama en la zona intermedia 
     - git remote add (se genera main automatico)
 
-# Como se crea un Repositorio
+### Como se crea un Repositorio
 
 1. En la página principal de GitHub, nos dirigimos a *New*para crear un repositorio 
 ![creacion](./img/fotoa.png)
@@ -39,9 +39,8 @@ en la foto vemos que en la configuracion individual de cada repositorio permite 
 ![fotod](./img/fotod.png)
 en esta foto vemos que podemos personalizar el dominio, y escoger la rama de visualizacion de usuario de la pagina.
 
-## Markdown
+# Markdown
 
-### Encabezados y sus niveles
 ## Segundo nivel 
 ### Tercer nivel 
 #### Cuarto nivel
@@ -86,7 +85,7 @@ La primer clase de **_markdown_** y HTML pueden anidarse en VS code
 
 [Página web de Amazon](https://amazon.com)"Amazon")
 
-Tabla
+### Tabla
 
 |Nombre|Enlace a documentacion|
 |--------|--------------------|
@@ -103,7 +102,7 @@ Tabla
 |smx|24|25|26|
 |daw|24|25|26|
 
-## HTML
+# HTML
 
 ## 4. ¿Que es HTML? ¿Como se esctructura?
 HTML es un lenguaje de marcas usado para estructurar y crear paginas web de forma legible para el usuario.
