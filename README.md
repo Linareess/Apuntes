@@ -55,7 +55,9 @@ Estos son los apuntes de *0373* del ciclo formativo de _ASIX_ o **DAW** del curs
 * Segundo punto de lista desordenada
 + Tercer punto de lista desordenada
 
-Lorem Ipsum
+<lipsum_markdown(
+    
+)
 La primer clase de **_markdown_** y HTML pueden anidarse en VS code
 
 ### insertar imagenes
