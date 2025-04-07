@@ -241,17 +241,6 @@ Framework CSS y JS para crear webs responsivas de forma rápida.
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
 ```
-### Contenedores
-<div class="container">Centrado</div>
-<div class="container-fluid">Ancho completo</div>
-<div class="row">
-``` 
-
-### Columnas  
-  <div class="col-6">Mitad</div>
-  <div class="col-6">Mitad</div>
-</div>
-
 ## Diseño Responsive
 
 ### Mobile First
@@ -366,21 +355,21 @@ Objetivo:
     -Manejo de sesiones para recordar información y redirigir al usuario según el resultado de la validación.
 
     ![f](./img/f.png)
-    
+
 ### Ejemplo de Validación en PHP
 
-### 1. Obtener Datos del Formulario:
+### 1. Obtener Datos del Formulario
 
     $pokemon = $_POST['pokemon'];
 
-### 2. Validación Condicional:
+### 2. Validación Condicional
 
 if (isset($_POST['index']) && $_POST['pokemon'] == 'pikachu') {
   // Si el formulario se envió (index) y el Pokémon es 'pikachu'
   echo "¡Correcto!";
 }
 
-### 3. Iniciar una Sesión y Guardar Información:
+### 3. Iniciar una Sesión y Guardar Información
 
 session_start(); 
 $_SESSION['pantalla1'] = 'check'; 
