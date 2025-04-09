@@ -13,7 +13,7 @@
 9. [Diseño Responsive](#diseño-responsive)
 10. [GitHub y gestión de repositorios](#github-y-gestión-de-repositorios)
 11. [XML](#xml)
-12. [Validación de Formulario y Manejo de Sesiones en PHP](#Validación de Formulario y Manejo de Sesiones en PHP)
+12. [Validación de Formulario y Manejo de Sesiones en PHP](#Validación-de-Formulario-y-Manejo-de-Sesiones-en-PHP)
 
 ---
 
@@ -292,7 +292,7 @@ Github permite hostear nuestra web desde su servicio de Github pages, para ello 
 3. Introduce nombre, descripción, visibilidad
 4. Marca **Add README**
 5. Clic en **Create Repository**
-![Foto Crear Repositorio](img/fotob.png "Foto_Repos")
+![Foto Crear Repositorio](./img/img/fotob.png "Foto_Repos")
 
 ### Comandos básicos
 
@@ -314,16 +314,17 @@ XML (extensible Markup Language) es un lenguaje de marcas que sirve para almacen
 No define cómo se muestran los datos, solo su estructura.
 
 ### Estructura Básica
-
+Ejemplo:
 <?xml version="1.0" encoding="UTF-8"?>
 <persona>
   <nombre>Juan</nombre>
   <edad>30</edad>
   <email>juan@example.com</email>
 </persona>
-
 Todo documento XML debe tener un único elemento raíz (<persona> en este caso).
 Las etiquetas deben estar correctamente anidadas y cerradas.
+Imagen ej:
+![xml](./img/xml.png)
 
 ### Reglas Básicas
 - Debe tener un único elemento raíz.
@@ -354,7 +355,7 @@ Objetivo:
 
     -Manejo de sesiones para recordar información y redirigir al usuario según el resultado de la validación.
 
-    ![f](./img/f.png)
+![foto](./img/f.png)
 
 ### Ejemplo de Validación en PHP
 
@@ -379,6 +380,8 @@ $_SESSION['pantalla1'] = 'check';
 if (isset($_GET['msg'])) {
   echo "Error, intenta con el pokemon: " . $_GET['msg'];
 }
+
+![i](./img/i.png)
 
 
 
