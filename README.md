@@ -282,7 +282,9 @@ Diseñar pensando primero en móviles.
 
 ## Pages
 Github permite hostear nuestra web desde su servicio de Github pages, para ello solo debemos entrar a la configuracion del repositorio en settings y publicar la web desde la rama main.
+
 ![crear pages!](./img/fotoc.png)
+
 ![Crear pages](./img/fotod.png)
 
 ### Crear un repositorio
@@ -292,7 +294,8 @@ Github permite hostear nuestra web desde su servicio de Github pages, para ello 
 3. Introduce nombre, descripción, visibilidad
 4. Marca **Add README**
 5. Clic en **Create Repository**
-![Foto Crear Repositorio](./img/img/fotob.png "Foto_Repos")
+
+![Foto Crear Repositorio](./img/img/fotob.png)
 
 ### Comandos básicos
 
@@ -323,6 +326,7 @@ Ejemplo:
 </persona>
 Todo documento XML debe tener un único elemento raíz (<persona> en este caso).
 Las etiquetas deben estar correctamente anidadas y cerradas.
+
 Imagen ej:
 ![xml](./img/xml.png)
 
