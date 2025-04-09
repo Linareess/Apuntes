@@ -295,7 +295,7 @@ Github permite hostear nuestra web desde su servicio de Github pages, para ello 
 4. Marca **Add README**
 5. Clic en **Create Repository**
 
-![Foto Crear Repositorio](./img/img/fotob.png)
+![Foto Crear Repositorio](./img/fotob.png)
 
 ### Comandos básicos
 
@@ -327,7 +327,7 @@ Ejemplo:
 Todo documento XML debe tener un único elemento raíz (<persona> en este caso).
 Las etiquetas deben estar correctamente anidadas y cerradas.
 
-Imagen ej:
+
 ![xml](./img/xml.png)
 
 ### Reglas Básicas
